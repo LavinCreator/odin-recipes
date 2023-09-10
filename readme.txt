@@ -1,0 +1,1 @@
+Trying to work on my first project while learing from odin project.
