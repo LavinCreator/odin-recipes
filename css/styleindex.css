@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+    background-image: url(https://c0.wallpaperflare.com/preview/38/635/697/blur-close-up-cup-delicious.jpg);
+    background-repeat: no-repeat;
+}
+h1 {
+    text-align: center;
+    font-size: 100px;
+    color: white;
+    -webkit-text-stroke: 2.5px black;
+    filter: drop-shadow(-2px -2px 5px white);
+}
+ul li {
+    text-align: center; 
+    font-size: 50px;
+    list-style: none;
+    margin-bottom: 50px;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+ul li a:hover{
+    color: rgb(0, 255, 8);
+}
