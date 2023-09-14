@@ -2,21 +2,37 @@ body {
     background-color: antiquewhite;
     text-align: center;
 }
+.backbox {
+    background-color: #ffffff;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 2px solid #333;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
 h1 {
     font-size: 90px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    padding-top: 50px;
+    padding: 15px;
+    background-color: rgb(112, 64, 64);
+    width: fit-content;
+    margin-left: 10%;
+    border-radius: 10px;
+    color: white;
 }
 img {
     height: auto;
     width: 650px;
+    border: 5px black;
+    padding: 5px;
 }
 h2 {
     font-size: 50px;
 }
 .steps {
-    padding-left: 350px;
-    padding-right: 350px;
+    padding-left: 100px;
+    padding-right: 100px;
 }
 ol {
     list-style: none;
